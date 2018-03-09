@@ -3,5 +3,5 @@
 this is the Chapter 3
 
 
- <img src="/img/chapter3.png">
+ <img src="https://github.com/QianRuan/md2pdf/blob/master/img/chapter3.png">
  <div style="page-break-after: always;"></div>
