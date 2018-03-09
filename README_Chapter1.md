@@ -2,5 +2,5 @@
 ----
  this is the Chapter 1
  
- <img src="https://github.com/QianRuan/md2pdf/tree/master/img/chapter1">
+ <img src="/img/chapter1.gif">
 
