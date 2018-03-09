@@ -4,3 +4,4 @@
  
  <img src="/img/chapter1.gif">
 
+<div style="page-break-after: always;"></div>
