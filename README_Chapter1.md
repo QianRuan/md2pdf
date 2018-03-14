@@ -1,3 +1,4 @@
+<img src="https://readthedocs.org/projects/samuroi/badge/?version=latest"> 
 ## Chapter 1
 ----
  this is the Chapter 1
